@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Eduardo TI</title>
+</head>
+<body>
+    <h1>Olá, meu nome é Eduardo</h1>
+    <p>Estou começando na área de TI.</p>
+
+    <h2>Minhas habilidades:</h2>
+    <ul>
+        <li>Formatação de computadores</li>
+        <li>Instalação de Windows</li>
+        <li>Suporte técnico básico</li>
+    </ul>
+</body>
+</html>
